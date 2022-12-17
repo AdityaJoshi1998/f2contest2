@@ -1,0 +1,64 @@
+*
+{
+    background: #1E1E1E;
+}
+.container
+{
+    background-color: white;
+    display: inline-block;
+    padding-right: 150px;
+    margin: 25px;
+    margin-top: 150px;
+}
+#emailid
+{
+    width:600px;
+    height:30px;
+    background-color: white;
+}
+
+#pwd
+{
+    width:600px;
+    height:30px;
+    background-color: white;
+}
+#btn
+{
+    width:150px;
+    height:30px;
+    background-color: white;
+}
+label{
+    margin:10px;
+    background-color: white;
+    color:black;
+}
+div{
+    color: white;
+}
+input
+{
+    margin:10px;
+}
+button{
+    margin:10px;
+}
+#messageemail
+{
+    margin:10px;
+    background-color: white;
+    
+}
+#messagepassword
+{
+    margin:10px;
+    background-color: white;
+}
+#message
+{
+    margin:10px;
+    background-color: white;
+}
+
+
